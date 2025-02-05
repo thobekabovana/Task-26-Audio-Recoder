@@ -1,4 +1,3 @@
-// src/components/VoiceNoteList.js
 import React from 'react';
 import { View, Text, Button, FlatList } from 'react-native';
 import AudioRecorderPlayer from 'react-native-audio-recorder-player';
